@@ -5,3 +5,5 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+mysite/__pycache__
+blog/__pycache__
